@@ -1,0 +1,54 @@
+#navbar {
+    background-color: black;
+    border-bottom: 6px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#branding {
+    color: white;
+    margin-left: 100px;
+}
+
+#spanColor {
+    color: red;
+}
+
+#nav a {
+    color: white;
+    text-decoration:none;
+}
+
+#nav li {
+    display: inline;
+    padding: 0px 50px;
+    font-size: 25px;
+}
+
+.main {
+    background-image: url("https://sergiotaco.github.io/html-css-workshop/images/banner.jpg");
+    height: 110vh;
+    background-size: cover;
+    text-shadow: 10px 10px 10px black;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+  }
+
+  #text1 {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 200px;
+  }
+
+  #text2 {
+    color: aliceblue;
+    text-align: center;
+  }

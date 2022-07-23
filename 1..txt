@@ -1,0 +1,9 @@
+What is Git:
+Git, yazılım geliştirme süreçlerinde kullanılan, hız odaklı, dağıtık çalışan bir sürüm kontrol ve kaynak kod yönetim sistemidir.
+
+Mention the various Git repository hosting services?
+
+
+
+What is the use of a Git clone?
+Klonlama işlemi ile uzakta bulunan bir Git deposunu kendi bilgisayarımıza indiriyoruz. Uzak depoyu klonlandıktan sonraki tüm değişiklikler artık bilgisayarımızdaki klon Git deposunda kayıt altına alınacak, ta ki git push komutu ile değişikliklerimizi uzaktaki depoya geri yazana kadar.
